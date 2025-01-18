@@ -1,0 +1,38 @@
+_repo: The-wounded-Eros_75026
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Braithwaite, William Stanley
+    aliases:
+    - Braithwaite, William Stanley Beaumont
+    - Braithwaite, W. S. (William Stanley)
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '865'
+    url: http://www.gutenberg.org/2009/agents/865
+    wikipedia: https://en.wikipedia.org/wiki/William_Braithwaite
+creator:
+  author:
+    agent_name: Gibson, Charles Hammond
+    gutenberg_agent_id: '57783'
+    url: http://www.gutenberg.org/2009/agents/57783
+description: ''
+gutenberg_issued: '2025-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75026'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t6834b032&seq=16
+pgterms:marc905: 20240825102444gibson
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bPublished by the Author, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The wounded Eros
+url: http://www.gutenberg.org/ebooks/75026
