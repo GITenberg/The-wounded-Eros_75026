@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '865'
     url: http://www.gutenberg.org/2009/agents/865
     wikipedia: https://en.wikipedia.org/wiki/William_Braithwaite
+covers:
+- cover_type: archival
+  image_path: 75026-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibson, Charles Hammond
     gutenberg_agent_id: '57783'
     url: http://www.gutenberg.org/2009/agents/57783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75026#The-wounded-Eros
 gutenberg_issued: '2025-01-03'
 gutenberg_type: Text
 identifiers:
